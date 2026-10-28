@@ -89,7 +89,7 @@ A Host-Only Network can allow communication between the host system and virtual 
 
 ### Screenshot: Host-Only Network
 
-![Host-Only Network Configuration](screenshots/04-host-only-network-configuration.png)
+![Host-Only Network Configuration](screenshots/04.png)
 
 ## 8. Kali Linux Desktop Environment
 
@@ -101,7 +101,7 @@ These tools should be used only in authorized environments.
 
 ### Screenshot: Kali Linux Desktop
 
-![Kali Linux Desktop](screenshots/05-kali-linux-desktop.png)
+![Kali Linux Desktop](screenshots/05.png)
 
 ## 9. Network Connectivity Verification
 
@@ -130,7 +130,7 @@ This confirms IP-level connectivity to the tested destination at the time of tes
 
 ### Screenshot: Ping Test
 
-![Network Connectivity Test](screenshots/06-network-connectivity-test.png)
+![Network Connectivity Test](screenshots/06.png)
 
 ## 10. Results
 
